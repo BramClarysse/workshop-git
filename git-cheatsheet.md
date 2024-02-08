@@ -32,9 +32,3 @@
 - `git remote -v`: List all remote repositories.
 - `git remote add <name> <url>`: Add a new remote repository.
 - `git remote remove <name>`: Remove a remote repository.
-
-### Stashing Changes
-- `git stash`: Stash changes in the working directory.
-- `git stash apply`: Apply the most recent stash to the working directory.
-- `git stash list`: List all stashes.
-- `git stash drop`: Discard the most recent stash.
